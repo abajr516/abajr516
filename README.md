@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Angel Bajracharya 
+Click <a href="https://www.linkedin.com/in/abajr/">here</a> to see my Linkedin profile.
 
 <!--
 **abajr516/abajr516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
